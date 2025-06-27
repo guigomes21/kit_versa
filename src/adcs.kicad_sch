@@ -1,0 +1,92 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d5799727-4a8e-41c6-9585-fafef26ec25d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 41.91 48.26)
+		(size 33.02 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "9328f332-bc79-4266-bb88-f754da2f7cd0")
+		(property "Sheetname" "mic_adc"
+			(at 41.91 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microphone.kicad_sch"
+			(at 41.91 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/dd5823bd-cf7a-4000-b295-b31869a3f590"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 48.26)
+		(size 29.21 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "9e8adfc2-731b-4fb8-b284-51219e6f05ea")
+		(property "Sheetname" "trimpots"
+			(at 88.9 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "trimpots.kicad_sch"
+			(at 88.9 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/dd5823bd-cf7a-4000-b295-b31869a3f590"
+					(page "10")
+				)
+			)
+		)
+	)
+)

@@ -1,0 +1,50 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "de1fcfdd-a482-4c96-a219-67fd6fa92cd9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 85.09 71.12)
+		(size 38.1 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 1.0000)
+		)
+		(uuid "c0aea1f3-4916-4ca5-aa6f-d82d48c8374c")
+		(property "Sheetname" "umid_temp_sens"
+			(at 85.09 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "umidsens.kicad_sch"
+			(at 85.09 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/fe7c01a3-21b3-4f96-818f-bda86ab2eda6"
+					(page "18")
+				)
+			)
+		)
+	)
+)

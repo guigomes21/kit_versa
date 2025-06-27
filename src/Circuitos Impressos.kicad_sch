@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "49caf936-61f8-45e5-bebd-98db7502d055")
+	(paper "A4")
+	(title_block
+		(title "RP2350")
+	)
+	(lib_symbols)
+	(sheet
+		(at 161.29 69.85)
+		(size 43.18 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 132 132 1.0000)
+		)
+		(uuid "3523909c-5026-4ff2-9976-775b6fedfefc")
+		(property "Sheetname" "debugger_RP2040"
+			(at 161.29 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "debugger.kicad_sch"
+			(at 161.29 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 217.17 39.37)
+		(size 33.02 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 1.0000)
+		)
+		(uuid "6226b8fd-5917-48c3-a138-e075137f14b2")
+		(property "Sheetname" "SPI"
+			(at 217.17 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "spi.kicad_sch"
+			(at 217.17 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 69.85)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 134 122 255 1)
+		)
+		(fill
+			(color 129 117 255 1.0000)
+		)
+		(uuid "c83c4fed-140a-443e-a6d8-37ea998d1cae")
+		(property "Sheetname" "MCU_RP2350"
+			(at 102.87 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 102.87 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 45.72 31.75)
+		(size 36.83 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 73 255 115 1)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "cd06bfc6-440d-49c0-874c-bf1b7680625b")
+		(property "Sheetname" "GPIOs"
+			(at 45.72 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buttons_tac.kicad_sch"
+			(at 45.72 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 120.65)
+		(size 33.02 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "dd5823bd-cf7a-4000-b295-b31869a3f590")
+		(property "Sheetname" "ADCs"
+			(at 50.8 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adcs.kicad_sch"
+			(at 50.8 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 50.8 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 123.19)
+		(size 35.56 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1.0000)
+		)
+		(uuid "fe7c01a3-21b3-4f96-818f-bda86ab2eda6")
+		(property "Sheetname" "I2C (página 17)"
+			(at 207.01 122.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "i2c.kicad_sch"
+			(at 207.01 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

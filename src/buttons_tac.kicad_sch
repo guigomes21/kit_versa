@@ -1,0 +1,320 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d525d28f-817b-42cf-809a-2d4857004b53")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 168.91 97.79)
+		(size 33.02 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "2716d356-51a5-45cf-8965-3be3c0aa6302")
+		(property "Sheetname" "IR_emitter_receiver (página 12)"
+			(at 168.91 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "infrared.kicad_sch"
+			(at 168.91 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 46.99)
+		(size 36.83 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "5c232308-7802-4c67-ac9b-99520f46e68d")
+		(property "Sheetname" "LED_END_RGB (página 6)"
+			(at 148.59 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "led_rgb.kicad_sch"
+			(at 148.59 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 148.59 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 46.99)
+		(size 35.56 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 94 79 255 1)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "8960e2c4-a8cd-4074-af25-7142e035287e")
+		(property "Sheetname" "Leds mono"
+			(at 95.25 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Leds.kicad_sch"
+			(at 95.25 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 46.99 96.52)
+		(size 30.48 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "aab8d75d-d43d-412b-a379-c1a557d876cd")
+		(property "Sheetname" "Mosfet"
+			(at 46.99 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mosfet.kicad_sch"
+			(at 46.99 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 46.99 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 96.52)
+		(size 36.83 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "e3943b68-708e-482a-9abf-d59ca62d1a39")
+		(property "Sheetname" "Micro SD"
+			(at 104.14 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microSD.kicad_sch"
+			(at 104.14 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 45.72)
+		(size 35.56 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 99 89 255 1)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "eebebb38-cc6d-4b81-8005-beea2d84bd6c")
+		(property "Sheetname" "buttons"
+			(at 40.64 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "push_buttons.kicad_sch"
+			(at 40.64 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 82.55 142.24)
+		(size 34.29 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 194 0 1.0000)
+		)
+		(uuid "f0c06f19-13a7-4ee6-9b45-4ff717511366")
+		(property "Sheetname" "Buzzer"
+			(at 82.55 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buzzer.kicad_sch"
+			(at 82.55 166.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/cd06bfc6-440d-49c0-874c-bf1b7680625b"
+					(page "13")
+				)
+			)
+		)
+	)
+)

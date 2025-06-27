@@ -1,0 +1,92 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "52486b1f-41ed-46fb-b201-53ad52aa292a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 125.73 72.39)
+		(size 55.88 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 1.0000)
+		)
+		(uuid "8fbd035e-048d-4ca0-b52f-89026a834f99")
+		(property "Sheetname" "telaOled"
+			(at 125.73 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tela.kicad_sch"
+			(at 125.73 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 72.39)
+		(size 30.48 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 1.0000)
+		)
+		(uuid "ecad11af-8d4c-4142-9d81-07b71356b09a")
+		(property "Sheetname" "acelerometro (página 15)"
+			(at 69.85 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "acelerometro.kicad_sch"
+			(at 69.85 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2"
+					(page "15")
+				)
+			)
+		)
+	)
+)

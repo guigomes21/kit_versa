@@ -1710,24 +1710,6 @@
 		(uuid "02f25749-d117-47d0-8694-e726d7400373")
 	)
 	(junction
-		(at 115.57 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03a11ed4-45b4-4f9a-9271-2dc460ba7521")
-	)
-	(junction
-		(at 115.57 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05ea1e02-242e-40e3-b23a-4a6cc35d0892")
-	)
-	(junction
-		(at 115.57 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d867329-27f7-4dae-a070-f93a465d99a1")
-	)
-	(junction
 		(at 71.12 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1738,18 +1720,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1751b920-ddd6-4eaa-944f-df664c7b9f74")
-	)
-	(junction
-		(at 115.57 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20828efa-fbe1-43bc-ac7f-63a02d3100fc")
-	)
-	(junction
-		(at 115.57 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d4b3872-b643-484b-8ca0-ba8d313cf626")
 	)
 	(junction
 		(at 115.57 137.16)
@@ -1764,12 +1734,6 @@
 		(uuid "4e484448-3175-414f-b53c-f1edb8cf3370")
 	)
 	(junction
-		(at 124.46 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4e740c74-ca56-4ee4-a8fb-61012d6f4d84")
-	)
-	(junction
 		(at 81.28 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1782,22 +1746,10 @@
 		(uuid "5f2d0210-0ee3-4e47-bf6f-490f97ed4a2d")
 	)
 	(junction
-		(at 115.57 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bf1a7e8-6936-43ca-8cd1-2b3aff08298b")
-	)
-	(junction
 		(at 95.25 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8af87acd-c161-4649-b959-7c911a5dfc8d")
-	)
-	(junction
-		(at 115.57 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b8c6efe-3ff2-471c-8539-8b4df79dd942")
 	)
 	(junction
 		(at 92.71 60.96)
@@ -1830,12 +1782,6 @@
 		(uuid "c249dcd8-2e84-42ba-a207-11cf61284581")
 	)
 	(junction
-		(at 115.57 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d43a8435-16ca-46d6-9f55-78f445259ec7")
-	)
-	(junction
 		(at 115.57 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1847,18 +1793,6 @@
 		(color 0 0 0 0)
 		(uuid "e365b45c-74cb-4d5e-bf76-fd222a9c2fb8")
 	)
-	(junction
-		(at 115.57 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fd75eac0-3d64-4f59-b5c2-374dd375502e")
-	)
-	(junction
-		(at 115.57 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe6d3eb4-c4b6-457b-827e-19d09f870f73")
-	)
 	(no_connect
 		(at 179.07 60.96)
 		(uuid "9bcabc44-eb10-43eb-95ff-7841623dcb4c")
@@ -1869,17 +1803,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 114.3) (xy 179.07 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05441032-be19-44da-ad0b-0357ecdb7b22")
-	)
-	(wire
-		(pts
-			(xy 115.57 72.39) (xy 115.57 76.2)
+			(xy 115.57 64.77) (xy 115.57 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1889,33 +1813,13 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 144.78) (xy 115.57 148.59)
+			(xy 115.57 140.97) (xy 115.57 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0c455c4f-b668-4777-8289-bc14abf16069")
-	)
-	(wire
-		(pts
-			(xy 115.57 148.59) (xy 115.57 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e4c219a-36ef-4539-83f2-6512dcc65af1")
-	)
-	(wire
-		(pts
-			(xy 115.57 80.01) (xy 115.57 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "128c21d8-672e-45a2-a913-0492aa085aee")
 	)
 	(wire
 		(pts
@@ -1959,16 +1863,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 76.2) (xy 115.57 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "199b21dc-d47f-43f4-8e60-ef54f90c6ce1")
-	)
-	(wire
-		(pts
 			(xy 138.43 137.16) (xy 179.07 137.16)
 		)
 		(stroke
@@ -1996,16 +1890,6 @@
 			(type default)
 		)
 		(uuid "2ab05841-f4b4-4d78-b550-9822ceb06ae4")
-	)
-	(wire
-		(pts
-			(xy 115.57 121.92) (xy 179.07 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ded1096-0f3c-4763-ab76-2b260a5cf365")
 	)
 	(wire
 		(pts
@@ -2089,16 +1973,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 125.73) (xy 179.07 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49162a95-2507-4eca-b7f8-54813f42b0f5")
-	)
-	(wire
-		(pts
 			(xy 71.12 49.53) (xy 71.12 55.88)
 		)
 		(stroke
@@ -2129,16 +2003,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 129.54) (xy 179.07 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4dd23e17-7b4e-4ae9-a73f-71878d1322d9")
-	)
-	(wire
-		(pts
 			(xy 78.74 83.82) (xy 179.07 83.82)
 		)
 		(stroke
@@ -2159,36 +2023,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 95.25) (xy 115.57 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ff6e712-6fb2-44bd-8b78-94612c070fa2")
-	)
-	(wire
-		(pts
-			(xy 115.57 129.54) (xy 115.57 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51cbc726-3d05-43c3-b7dc-b7f15ec7638b")
-	)
-	(wire
-		(pts
-			(xy 115.57 76.2) (xy 179.07 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "538522bb-91a1-49b4-9170-e72d6db7ff06")
-	)
-	(wire
-		(pts
 			(xy 81.28 36.83) (xy 87.63 36.83)
 		)
 		(stroke
@@ -2196,36 +2030,6 @@
 			(type default)
 		)
 		(uuid "5449747c-caf8-469d-b9c1-334487cae1f6")
-	)
-	(wire
-		(pts
-			(xy 115.57 99.06) (xy 115.57 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "548c686c-3d76-44a4-86ae-8394f1bb655e")
-	)
-	(wire
-		(pts
-			(xy 115.57 64.77) (xy 115.57 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59d78957-ffd9-42a0-ab33-f43a74da06aa")
-	)
-	(wire
-		(pts
-			(xy 115.57 148.59) (xy 179.07 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b03154a-7388-43f3-8c11-816b6676fbe4")
 	)
 	(wire
 		(pts
@@ -2339,16 +2143,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 114.3) (xy 115.57 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "844a904c-5d80-4fa5-9110-920915e10564")
-	)
-	(wire
-		(pts
 			(xy 81.28 31.75) (xy 81.28 36.83)
 		)
 		(stroke
@@ -2419,16 +2213,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 121.92) (xy 115.57 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a593f91f-e6b2-4e0e-afc8-c6a31784ba61")
-	)
-	(wire
-		(pts
 			(xy 115.57 80.01) (xy 179.07 80.01)
 		)
 		(stroke
@@ -2439,23 +2223,13 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 125.73) (xy 115.57 129.54)
+			(xy 115.57 80.01) (xy 115.57 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "aa95c303-0520-417b-bc27-f0e06d14cede")
-	)
-	(wire
-		(pts
-			(xy 115.57 95.25) (xy 179.07 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad413dac-9c1a-4103-9709-b97e850ebedc")
 	)
 	(wire
 		(pts
@@ -2469,23 +2243,13 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 64.77) (xy 124.46 64.77)
+			(xy 115.57 64.77) (xy 179.07 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b58b2db5-78f8-4d9f-9c0a-8fe462d692fe")
-	)
-	(wire
-		(pts
-			(xy 179.07 38.1) (xy 124.46 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b58c72a1-11fb-4643-87d3-6a68165f4ba3")
 	)
 	(wire
 		(pts
@@ -2569,26 +2333,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 38.1) (xy 124.46 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5647dad-6561-4914-ae0c-17f4f45f0a44")
-	)
-	(wire
-		(pts
-			(xy 115.57 140.97) (xy 115.57 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6761323-e5ac-4ed2-8778-13905602a8e8")
-	)
-	(wire
-		(pts
 			(xy 146.05 49.53) (xy 146.05 53.34)
 		)
 		(stroke
@@ -2669,36 +2413,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 99.06) (xy 179.07 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e120f457-f767-4d83-abfa-bddcbc976968")
-	)
-	(wire
-		(pts
-			(xy 115.57 72.39) (xy 179.07 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e75c23a3-4e37-4342-8f34-4f5b44d00160")
-	)
-	(wire
-		(pts
-			(xy 115.57 144.78) (xy 179.07 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7d93d81-efd2-41f8-bb94-25409dd0e780")
-	)
-	(wire
-		(pts
 			(xy 71.12 60.96) (xy 80.01 60.96)
 		)
 		(stroke
@@ -2736,16 +2450,6 @@
 			(type default)
 		)
 		(uuid "f25ef1ba-2865-4579-a954-f3f3281110d7")
-	)
-	(wire
-		(pts
-			(xy 124.46 64.77) (xy 179.07 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4b272d2-9031-485a-8525-3305443a6b14")
 	)
 	(wire
 		(pts
@@ -3641,6 +3345,140 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 179.07 95.25 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7004a686-7701-44d3-9588-ed8c057bc560")
+		(property "Reference" "#PWR076"
+			(at 172.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e4490bd-3ae0-4c2a-addc-67384bd75f04")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 121.92 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77f8f06e-a954-4bf4-8a02-aba7176acf99")
+		(property "Reference" "#PWR099"
+			(at 172.72 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "070e2948-65b2-4626-bafe-0efb4224f6a1")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 88.9 95.25 90)
 		(unit 1)
@@ -3835,6 +3673,274 @@
 			(project "Circuitos Impressos"
 				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 144.78 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f259fc8-8abe-404b-9c81-de6b0ce90b57")
+		(property "Reference" "#PWR0103"
+			(at 172.72 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd7236d9-21eb-4b1d-a16f-d248c5e6ae1c")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 114.3 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95cba2c8-63fa-451e-a829-858905231d17")
+		(property "Reference" "#PWR061"
+			(at 172.72 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48c26b4c-5b05-4471-aafe-5d6760ae766a")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 38.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5c01aea-424b-4a3b-9cd0-10600bb12383")
+		(property "Reference" "#PWR098"
+			(at 172.72 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c45290c2-d2ba-49f2-9d6f-ce17e2c068e0")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR098")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 99.06 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ab5f85a9-f00d-495f-a4ab-fbb4f2518e6d")
+		(property "Reference" "#PWR075"
+			(at 172.72 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 99.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b2f7c758-95a4-475a-ac6d-a535da81464c")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -4108,6 +4214,274 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 179.07 148.59 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1327895-de9d-489b-9552-fd527d9c93ea")
+		(property "Reference" "#PWR0104"
+			(at 172.72 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 148.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd667ca9-a166-4184-ab54-8a9c1cfcc521")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 76.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e70827b1-fed1-4982-8a53-94d659e4954d")
+		(property "Reference" "#PWR077"
+			(at 172.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 76.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3fbbbedd-6067-4aaa-93b6-b99e44a181d0")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e977808c-2bc3-4e55-9c07-096fdc3b2a35")
+		(property "Reference" "#PWR078"
+			(at 172.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 72.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61f724fd-96d6-416d-bb35-045e95a72393")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb27e996-85b2-4512-be74-cbdb13192a20")
+		(property "Reference" "#PWR0100"
+			(at 172.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 125.7299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4385158e-712b-4f3f-a59b-55d12e2f0c8a")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR0100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 153.67 53.34 90)
 		(unit 1)
@@ -4169,6 +4543,73 @@
 			(project "Circuitos Impressos"
 				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 179.07 129.54 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9b8a206-c2a9-485e-a8af-d2bfe61a0119")
+		(property "Reference" "#PWR0101"
+			(at 172.72 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 129.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b4c951b-2a3d-436a-aea9-ca2c2f938f0d")
+		)
+		(instances
+			(project "Circuitos Impressos"
+				(path "/49caf936-61f8-45e5-bebd-98db7502d055/6226b8fd-5917-48c3-a138-e075137f14b2/8fbd035e-048d-4ca0-b52f-89026a834f99"
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)

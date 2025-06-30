@@ -652,64 +652,16 @@
       "GPIOs"
     ],
     [
-      "eebebb38-cc6d-4b81-8005-beea2d84bd6c",
-      "buttons"
-    ],
-    [
-      "8960e2c4-a8cd-4074-af25-7142e035287e",
-      "Leds mono"
-    ],
-    [
-      "5c232308-7802-4c67-ac9b-99520f46e68d",
-      "LED_END_RGB (página 6)"
-    ],
-    [
-      "aab8d75d-d43d-412b-a379-c1a557d876cd",
-      "Mosfet"
-    ],
-    [
       "dd5823bd-cf7a-4000-b295-b31869a3f590",
       "ADCs"
-    ],
-    [
-      "9328f332-bc79-4266-bb88-f754da2f7cd0",
-      "mic_adc"
-    ],
-    [
-      "9e8adfc2-731b-4fb8-b284-51219e6f05ea",
-      "trimpots"
-    ],
-    [
-      "e3943b68-708e-482a-9abf-d59ca62d1a39",
-      "Micro SD"
-    ],
-    [
-      "2716d356-51a5-45cf-8965-3be3c0aa6302",
-      "IR_emitter_receiver (página 12)"
-    ],
-    [
-      "f0c06f19-13a7-4ee6-9b45-4ff717511366",
-      "Buzzer"
     ],
     [
       "6226b8fd-5917-48c3-a138-e075137f14b2",
       "SPI"
     ],
     [
-      "ecad11af-8d4c-4142-9d81-07b71356b09a",
-      "acelerometro (página 15)"
-    ],
-    [
-      "8fbd035e-048d-4ca0-b52f-89026a834f99",
-      "telaOled"
-    ],
-    [
       "fe7c01a3-21b3-4f96-818f-bda86ab2eda6",
       "I2C (página 17)"
-    ],
-    [
-      "c0aea1f3-4916-4ca5-aa6f-d82d48c8374c",
-      "umid_temp_sens"
     ],
     [
       "3523909c-5026-4ff2-9976-775b6fedfefc",

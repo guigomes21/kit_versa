@@ -11984,6 +11984,28 @@
 			)
 		)
 	)
+	(global_label "ACEL_INT1"
+		(shape bidirectional)
+		(at 179.07 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5a5f7c74-f735-45d3-bf6f-e05b723c11c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 192.7822 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GP_EMITTER"
 		(shape output)
 		(at 179.07 104.14 0)
@@ -12239,6 +12261,28 @@
 		(uuid "b37b26d8-0909-471c-9b86-23e4405164d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 193.5456 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ACEL_INT2"
+		(shape bidirectional)
+		(at 179.07 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b62b5ba6-d97d-4f28-be11-ad5f59a6c8de")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 192.7822 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)

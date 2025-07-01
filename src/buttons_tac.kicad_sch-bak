@@ -5848,7 +5848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "componentes_personalizados:mosfet-DMN2600UFB-7"
+		(property "Footprint" ""
 			(at 182.88 27.94 0)
 			(effects
 				(font
@@ -7393,7 +7393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "componentes_personalizados:transistor - DTC014E SOT-416FL"
+		(property "Footprint" ""
 			(at 193.04 43.18 0)
 			(effects
 				(font
@@ -7493,7 +7493,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 43.18 135.89 0)
 			(effects
 				(font
@@ -7766,7 +7766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 95.25 135.89 0)
 			(effects
 				(font
@@ -7905,7 +7905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 69.85 135.89 0)
 			(effects
 				(font
@@ -8453,7 +8453,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 17.78 135.89 0)
 			(effects
 				(font
@@ -9622,7 +9622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Card:microSD_HC_Wuerth_693072010801"
+		(property "Footprint" ""
 			(at 238.76 132.08 0)
 			(effects
 				(font
@@ -9981,7 +9981,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "componentes_personalizados:IR_emitter_B13V1IR--20C000114U1930"
+		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
 			(at 202.565 52.07 0)
 			(effects
 				(font

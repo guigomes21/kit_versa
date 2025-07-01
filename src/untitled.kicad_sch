@@ -6472,7 +6472,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 176.53) (xy 176.53 176.53)
+			(xy 163.83 175.26) (xy 165.1 175.26)
 		)
 		(stroke
 			(width 0)
@@ -7292,6 +7292,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 176.53) (xy 162.56 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3860571c-da6d-4c02-bf39-886b72be9d3c")
+	)
+	(wire
+		(pts
 			(xy 238.76 121.92) (xy 227.33 121.92)
 		)
 		(stroke
@@ -7979,6 +7989,16 @@
 			(type default)
 		)
 		(uuid "61c5f49b-c41d-41a8-8496-1d962fe4a62a")
+	)
+	(wire
+		(pts
+			(xy 163.83 175.26) (xy 163.83 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61c7c75b-50e2-4a80-83fa-212260eb69de")
 	)
 	(wire
 		(pts
@@ -10770,16 +10790,6 @@
 		)
 		(uuid "753d3db1-f189-4c3e-b8f3-b65420dce8bd")
 	)
-	(label "GPIO43_ADC3"
-		(at 176.53 176.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "764304ef-3806-4be8-8567-5eaa36cf2180")
-	)
 	(label "GPIO40_ADC0"
 		(at 241.3 81.28 0)
 		(effects
@@ -11833,6 +11843,28 @@
 		(uuid "69ef7f0a-0552-4302-a7b2-0eef938fc7c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 193.5456 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADC_LDR"
+		(shape input)
+		(at 165.1 175.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "743c12dd-23b2-4a12-8b3d-a82a4da7cc56")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2495 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13855,7 +13887,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 34.29 39.37 0)
 			(effects
 				(font

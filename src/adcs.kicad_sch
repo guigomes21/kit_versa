@@ -1232,31 +1232,21 @@
 		)
 		(uuid "d8c578e7-cfe3-40e5-8087-303e0608e1aa")
 	)
-	(text_box ""
-		(exclude_from_sim no)
-		(at 116.84 85.09 0)
-		(size 43.18 26.67)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "f913f8c9-bf3d-4117-8eda-ca9015a15d6a")
-	)
 	(junction
 		(at 82.55 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84b26733-f9e8-4dc4-830f-f52ac419d172")
+	)
+	(polyline
+		(pts
+			(xy 118.11 83.82) (xy 161.29 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "025fa7bf-ecc8-486a-8811-932ad4968a1f")
 	)
 	(wire
 		(pts
@@ -1297,6 +1287,26 @@
 			(type default)
 		)
 		(uuid "198c4887-5673-42eb-901b-c9f31c488557")
+	)
+	(polyline
+		(pts
+			(xy 161.29 114.3) (xy 161.29 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2812b251-105f-4807-92e4-c095111f1de5")
+	)
+	(polyline
+		(pts
+			(xy 118.11 114.3) (xy 161.29 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b30c3d8-782e-4b15-9362-ffb383141382")
 	)
 	(wire
 		(pts
@@ -1467,6 +1477,16 @@
 			(type default)
 		)
 		(uuid "b6f4c011-01ec-4516-8865-bd3a64e773cd")
+	)
+	(polyline
+		(pts
+			(xy 118.11 83.82) (xy 118.11 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bca70a27-a366-4bec-b977-f49eaecae25e")
 	)
 	(polyline
 		(pts
@@ -1703,7 +1723,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
 			(at 194.31 101.6 0)
 			(effects
 				(font
@@ -2044,7 +2064,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
 			(at 170.18 100.33 0)
 			(effects
 				(font
@@ -2117,7 +2137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 194.31 93.98 0)
 			(effects
 				(font
@@ -2517,7 +2537,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 142.24 95.25 0)
 			(effects
 				(font
@@ -2656,7 +2676,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 170.18 92.71 0)
 			(effects
 				(font

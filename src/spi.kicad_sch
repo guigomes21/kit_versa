@@ -4484,7 +4484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "componentes_personalizados:mosfet-DMN2600UFB-7"
 			(at 158.75 43.18 0)
 			(effects
 				(font
@@ -4822,7 +4822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 78.74 84.7852 0)
 			(effects
 				(font
@@ -5159,7 +5159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "componentes_personalizados:mosfet-DMN2600UFB-7"
 			(at 135.89 49.53 0)
 			(effects
 				(font
@@ -5231,7 +5231,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 81.28 101.2952 0)
 			(effects
 				(font
@@ -5300,7 +5300,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 81.28 94.9452 0)
 			(effects
 				(font

@@ -5943,7 +5943,7 @@
 			)
 		)
 	)
-	(global_label "SWD"
+	(global_label "SWDIO"
 		(shape input)
 		(at 26.67 41.91 180)
 		(fields_autoplaced yes)
@@ -5955,7 +5955,7 @@
 		)
 		(uuid "bfa764a1-ead4-421c-850e-a10c3d1f6de1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7539 41.91 0)
+			(at 17.8186 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)

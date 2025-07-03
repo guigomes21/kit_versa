@@ -2606,7 +2606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "componentes_personalizados:MIC_CMA-4544PF-W"
 			(at 82.55 101.6 90)
 			(effects
 				(font

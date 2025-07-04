@@ -1,4 +1,4 @@
-25606333932463457
+25601079787482641
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102641,21 +102641,7 @@ Varistor VF
 2
 2
 componentes_personalizados
-IR_emitter_B13V1IR--20C000114U1930
-
-
-0
-2
-2
-componentes_personalizados
-MIC_CMA-4544PF-W
-
-
-0
-2
-2
-componentes_personalizados
-RP2040
+RP2040 (1)
 
 
 0
@@ -102669,14 +102655,7 @@ RP2350B
 81
 81
 componentes_personalizados
-mosfet-DMN2600UFB-7
-
-
-0
-3
-3
-componentes_personalizados
-transistor - DTC014E SOT-416FL
+mosfet
 
 
 0
